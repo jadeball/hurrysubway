@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Projects/!svn/ver/13588/trunk/SubWay.iPad/SubWay.iPad/Classes/Data/lib/Touchjson/Experimental
+END
+CFilteringJSONSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Projects/!svn/ver/13588/trunk/SubWay.iPad/SubWay.iPad/Classes/Data/lib/Touchjson/Experimental/CFilteringJSONSerializer.h
+END
+CJSONDeserializer_BlocksExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Projects/!svn/ver/13588/trunk/SubWay.iPad/SubWay.iPad/Classes/Data/lib/Touchjson/Experimental/CJSONDeserializer_BlocksExtensions.h
+END
+CFilteringJSONSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Projects/!svn/ver/13588/trunk/SubWay.iPad/SubWay.iPad/Classes/Data/lib/Touchjson/Experimental/CFilteringJSONSerializer.m
+END
+CJSONDeserializer_BlocksExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Projects/!svn/ver/13588/trunk/SubWay.iPad/SubWay.iPad/Classes/Data/lib/Touchjson/Experimental/CJSONDeserializer_BlocksExtensions.m
+END
+CJSONSerializedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Projects/!svn/ver/13588/trunk/SubWay.iPad/SubWay.iPad/Classes/Data/lib/Touchjson/Experimental/CJSONSerializedData.h
+END
+CJSONSerializedData.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Projects/!svn/ver/13588/trunk/SubWay.iPad/SubWay.iPad/Classes/Data/lib/Touchjson/Experimental/CJSONSerializedData.m
+END
